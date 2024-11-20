@@ -3,7 +3,7 @@ license: apache-2.0
 ---
 # naT - Not Another Text To Video Model
 
-This is an early alpha version, trained at home for research purposes. Do not expect high-quality samples. Outputs are 256x256 32 frames videos.
+This is an early alpha version, trained from scratch at home for research purposes. Do not expect high-quality samples. Outputs are 256x256 32 frames videos.
 
 ```
 git clone https://github.com/motexture/naT
