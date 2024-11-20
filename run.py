@@ -116,7 +116,7 @@ video_gen = VideoGenerator()
 with gr.Blocks() as iface:
     gr.Markdown("""
     <div style="text-align: center;">
-        <h1>naT-XL</h1>
+        <h1>naT</h1>
         <p>Not Another Text To Video Model</p>
     </div>
     """)
