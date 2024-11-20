@@ -18,6 +18,8 @@ python3 run.py
 
 motexture/naT-Alpha-0.1 # Low quality, 256x256x32 frames. Generates bad samples most of the times
 
+
+
 ## Samples
 
 https://github.com/user-attachments/assets/88aa82ba-f593-4120-b797-e0f4eb406fa8
@@ -30,3 +32,4 @@ https://github.com/user-attachments/assets/e28e469f-89b0-4ac6-9093-9b089a710d51
 
 https://github.com/user-attachments/assets/0d8047ea-4825-47ec-9fd9-a5d11b55d607
 
+https://github.com/user-attachments/assets/379e93b5-6e50-45f0-92c6-18baed271b44
