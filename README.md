@@ -16,9 +16,7 @@ python3 run.py
 
 ## Versions
 
-motexture/naT-Alpha-0.1 # Low quality, 256x256x32 frames. Generates bad samples most of the times
-
-
+motexture/naT-text-to-video-Alpha-0.1 # Low quality, 256x256x32 frames. Generates bad samples most of the times
 
 ## Samples
 
