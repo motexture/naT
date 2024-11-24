@@ -125,7 +125,7 @@ with gr.Blocks() as iface:
         with gr.Column(scale=1):
             prompt = gr.Textbox(label="Prompt", value="An astronaut is riding a green horse")
             negative_prompt = gr.Textbox(label="Negative Prompt", value="")
-            guidance_scale = gr.Slider(label="Guidance Scale", minimum=0.0, maximum=30.0, step=0.1, value=20.0)
+            guidance_scale = gr.Slider(label="Guidance Scale", minimum=0.0, maximum=40.0, step=0.1, value=25.0)
 
             gr.Markdown("## Inference Settings")
 
