@@ -3,7 +3,15 @@ license: apache-2.0
 ---
 # naT - Not Another Text To Video Model
 
+## Weights
+
+Not available yet
+
+## About
+
 This is an early alpha version, trained from scratch at home for research purposes. Do not expect high-quality samples. Outputs are 256x256 32 frames videos.
+
+## Installation
 
 ```
 git clone https://github.com/motexture/naT
