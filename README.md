@@ -5,7 +5,7 @@ license: apache-2.0
 
 ## Weights
 
-Not available yet
+Not available
 
 ## About
 
