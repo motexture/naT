@@ -3,13 +3,20 @@ license: apache-2.0
 ---
 # naT - Not Another Text To Video Model
 
-## Weights
+This is a home made model trained from scratch for research purposes and as a hobby. Outputs are 256x256 32 frames low quality videos.
+Spatial layers are from Stable Diffusion XL 1.0.
+This is a classic UNet t2v model similar to modelscope t2v model. Please feel free to further train it to enhance quality and resolution.
 
-Not available
+https://github.com/motexture/naT
 
-## About
-
-The example model was trained from scratch at home for research purposes. Outputs are 256x256 32 frames low quality videos.
+```
+git clone https://github.com/motexture/naT
+cd naT
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+python3 run.py
+```
 
 ## Train
 
