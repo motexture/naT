@@ -9,22 +9,12 @@ Not available yet
 
 ## About
 
-This is an early alpha version, trained from scratch at home for research purposes. Do not expect high-quality samples. Outputs are 256x256 32 frames videos.
+The example model was trained from scratch at home for research purposes. Outputs are 256x256 32 frames low quality videos.
 
-## Installation
+## Train
 
-```
-git clone https://github.com/motexture/naT
-cd naT
-python3 -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
-python3 run.py
-```
-
-## Versions
-
-motexture/naT-text-to-video-Alpha-0.1 # Low quality, 256x256x32 frames. Generates bad samples most of the times
+Please use this repo for training a model from scratch
+https://github.com/motexture/naT-Training
 
 ## Samples
 
