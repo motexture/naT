@@ -149,5 +149,5 @@ with gr.Blocks() as iface:
         )
 
 if __name__ == "__main__":
-    video_gen.set_pipeline("motexture/naT-text-to-video-Alpha-0.1")
+    video_gen.set_pipeline("model")
     iface.launch()
